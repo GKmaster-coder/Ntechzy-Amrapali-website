@@ -1,0 +1,32 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Build and Dependency folders
+node_modules/
+dist/
+dist-ssr/
+
+# Local Environment
+*.local
+
+# IDEs and editors
+.vscode/
+!.vscode/extensions.json
+.idea/
+.DS_Store
+
+# Visual Studio
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Media (optional)
+*.mp4
